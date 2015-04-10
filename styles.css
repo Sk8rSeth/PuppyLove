@@ -11,7 +11,7 @@ a {
 	min-height: 400px;
 	font-family: lato;
 	color: white;
-	background: -webkit-radial-gradient(center, ellipse cover, rgba(30,87,153,0.4) 0%,rgba(0,171,185,0.7) 100%), url('/CSS/Images/bg.jpg');
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(30,87,153,0.4) 0%,rgba(0,171,185,0.7) 100%), url('/Images/bg.jpg');
 	
 }
 
